@@ -42,7 +42,7 @@ def main():
         except Exception as e:
             print("Error fetching image: " + e)
 
-        time.sleep(1)
+#        time.sleep(1)
 
 
 if __name__ == "__main__":
